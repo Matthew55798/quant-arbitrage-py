@@ -53,3 +53,35 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 项目状态与支持 | Project Status and Support
+
+### 中文说明
+
+本项目目前处于概念验证阶段，尚未经过全面测试和验证。代码仅代表个人的初步实现思路，可能存在问题或不足之处。如果您在使用过程中遇到任何问题，请自行解决或与我联系。
+
+如果您对这个项目感兴趣，欢迎与我交流讨论，我们可以一起探索和完善这个想法。
+
+**赞助与定制开发：**
+如果您认为这个项目有价值并希望看到更多功能，您可以考虑赞助本项目。通过赞助，您可以：
+- 提出具体的需求和功能请求
+- 获得优先的技术支持
+- 参与项目的发展方向决策
+
+欢迎通过以下方式联系我进行赞助或合作讨论：
+- 邮箱：[matthewzhang557@gmail.com]
+
+### English Version
+
+This project is currently in the proof-of-concept stage and has not been fully tested or validated. The code only represents my initial implementation ideas and may have issues or shortcomings. If you encounter any problems while using it, please solve them yourself or contact me.
+
+If you are interested in this project, I welcome discussions and we can explore and improve this idea together.
+
+**Sponsorship and Custom Development:**
+If you find value in this project and would like to see more features, you might consider sponsoring the project. Through sponsorship, you can:
+- Request specific features and functionalities
+- Receive priority technical support
+- Participate in decisions regarding the project's development direction
+
+Feel free to contact me for sponsorship or collaboration discussions through:
+- 邮箱：[matthewzhang557@gmail.com]
+
